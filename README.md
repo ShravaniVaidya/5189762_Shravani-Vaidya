@@ -1,11 +1,18 @@
 # 5189762_Shravani-Vaidya
 
+
+## AGILE CERTIFICATE
 ![Agile Image](./SDLC/agile.jpg)
 
+
+## SIMPLILEARN CERTIFICATE
 <p align="center">
   <img src="GIT/simplilearn_certificate.jpg" width="500">
 </p>
-## Linux Training Screenshots
+## LINUX TRAINING
+
+
+##ASSIHNMENT-1
 
 ### Screenshot 1
 ![ss1](LINUX/ss1.jpg)
@@ -24,3 +31,15 @@
 
 ### Screenshot 6
 ![ss6](LINUX/ss6.jpg)
+
+## ASSIGNMENT 2
+
+### Screenshot 7
+![ss7](LINUX/ss7.jpg)
+
+### Screenshot 8
+![ss8](LINUX/ss8.jpg)
+
+### Screenshot 9
+![ss9](LINUX/ss9.jpg)
+
