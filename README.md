@@ -12,7 +12,8 @@
 ## LINUX TRAINING
 
 
-##ASSIHNMENT-1
+
+## ASSIGNMENT-1
 
 ### Screenshot 1
 ![ss1](LINUX/ss1.jpg)
