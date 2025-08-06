@@ -1,4 +1,4 @@
-# 5189762_Shravani-Vaidya
+# 5189762_Shravani Vaidya
 
 
 ## AGILE CERTIFICATE
@@ -44,3 +44,12 @@
 ### Screenshot 9
 ![ss9](LINUX/ss9.jpg)
 
+
+
+## C PROGRAMMING CERTIFICATES
+
+### Solo-learn Beginner Certificate
+![beginner-solo learn](C PROGRAMMING/c prog beg solo learn.jpg)
+
+### Solo-learn Intermediate Certificate
+![intermediate-solo learn](C PROGRAMMING/c prog inter solo learn.jpg)
