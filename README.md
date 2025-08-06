@@ -11,38 +11,7 @@
 </p>
 ## LINUX TRAINING
 
-
-
-## ASSIGNMENT-1
-
-### Screenshot 1
-![ss1](LINUX/ss1.jpg)
-
-### Screenshot 2
-![ss2](LINUX/ss2.jpg)
-
-### Screenshot 3
-![ss3](LINUX/ss3.jpg)
-
-### Screenshot 4
-![ss4](LINUX/ss4.jpg)
-
-### Screenshot 5
-![ss5](LINUX/ss5.jpg)
-
-### Screenshot 6
-![ss6](LINUX/ss6.jpg)
-
-## ASSIGNMENT 2
-
-### Screenshot 7
-![ss7](LINUX/ss7.jpg)
-
-### Screenshot 8
-![ss8](LINUX/ss8.jpg)
-
-### Screenshot 9
-![ss9](LINUX/ss9.jpg)
+###Practice history screenshots in LINUX folder.
 
 
 
