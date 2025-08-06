@@ -1,0 +1,19 @@
+char* timeConversion(char* s) {
+char arr[9];
+int hr;
+sscanf(s,"%2d",&hr);
+if(s[8]=='A')
+{
+    if(hr==12)
+    hr=0;
+}
+else if (s[8]=='P') {
+    if(hr!=12)
+    {
+        hr=hr+12;
+    }
+
+}
+sprintf(arr, sizeof(arr), "%02d:%c%c:%c%c", hr, s[3], s[4], s[6], s[7]);
+return arr;
+}
