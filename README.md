@@ -49,7 +49,7 @@
 ## C PROGRAMMING CERTIFICATES
 
 ### Solo-learn Beginner Certificate
-![beginner-solo learn](C PROGRAMMING/c prog beg solo learn.jpg)
+![beginner-solo learn](C%20PROGRAMMING/c%20prog%20beg%20solo%20learn.jpg)
 
 ### Solo-learn Intermediate Certificate
-![intermediate-solo learn](C PROGRAMMING/c prog inter solo learn.jpg)
+![intermediate-solo learn](C%20PROGRAMMING/c%20prog%20inter%20solo%20learn.jpg)
