@@ -1,0 +1,17 @@
+char* pangrams(char* s) {
+    static char pang[] = "pangram";
+    static char not_pang[] = "not pangram";
+    
+    int seen[26] = {0}, c = 0;
+
+    for (int i = 0; s[i]; i++) {
+        if (isalpha(s[i])) {
+            int idx = tolower(s[i]) - 'a';
+            if (!seen[idx]) {                 seen[idx] = 1;
+                c++;
+                if (c == 26) return pang;
+                 }
+        }
+    }
+    return not_pang;
+}

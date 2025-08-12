@@ -1,0 +1,27 @@
+int cmp_asc(const void* a, const void* b) 
+{
+    return (*(int*)a - *(int*)b);
+}
+
+char* twoArrays(int k, int A_count, int* A, int B_count, int* B) {
+    static char yes[] = "YES";
+    static char no[] = "NO";
+
+    // Sort A ascending
+    qsort(A, A_count, sizeof(int), cmp_asc);
+    // Sort B ascending
+    qsort(B, B_count, sizeof(int), cmp_asc);
+    
+    // Reverse B to get descending order
+    for (int i = 0; i < B_count / 2; i++) {
+        int temp = B[i];
+        B[i] = B[B_count - 1 - i];
+        B[B_count - 1 - i] = temp;
+    }
+    for (int i = 0; i < A_count; i++) {
+        if (A[i] + B[i] < k) {
+            return no;
+        }
+    }
+    return yes;
+}

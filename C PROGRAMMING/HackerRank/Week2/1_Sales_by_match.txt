@@ -1,0 +1,15 @@
+int sockMerchant(int n, int ar_count, int* ar) {
+int pairs=0;
+int colours[100]={0};
+for(int i=0;i<n;i++)
+{
+    colours[ar[i]]++;
+
+if (colours[ar[i]] == 2) { // found a pair
+            pairs++;
+            colours[ar[i]] = 0; // reset count for that color
+        }
+    }
+
+    return pairs;
+}
